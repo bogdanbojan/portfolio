@@ -1017,7 +1017,7 @@ p {
     }
 }
 
-.spotify {
+.menumorut {
     margin-top: 60px
 }
 
@@ -1134,12 +1134,12 @@ p {
     background: rgba(33, 133, 213, .1)
 }
 
-.spotify-link {
+.menumorut-link {
     color: #1fca5c
 }
 
-.spotify-link:after,
-.spotify-link:before {
+.menumorut-link:after,
+.menumorut-link:before {
     background: rgba(31, 202, 92, .15)
 }
 
@@ -1232,14 +1232,14 @@ p {
     background: rgba(231,231, 231, .1)
 }
 
-.spotify-item .work-item-img:before {
+.menumorut-item .work-item-img:before {
     background: -moz-linear-gradient(-45deg, #2B44A6 0, #2FE48F 100%);
     background: -webkit-linear-gradient(-45deg, #2B44A6 0, #2FE48F 100%);
     background: linear-gradient(135deg, #cee0f0 0, #f4f2ec 100%);
     opacity: .0
 }
 
-.spotify-icon {
+.menumorut-icon {
     background-image: url(./images/icons/mcco.png)
 }
 
